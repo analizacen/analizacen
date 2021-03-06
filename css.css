@@ -29,3 +29,9 @@ p.podpis {
     text-align: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.srdk {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
