@@ -37,8 +37,9 @@ p.podpis {
 }
 .zdj {
     border: 10px outset silver;
-    display: block;
+    width: 50%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    display: grid;
 }
